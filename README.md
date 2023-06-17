@@ -6,3 +6,4 @@
 <p>3. When this command is run the following prompt should appear</p>
 <p>(hbnb)</p>
 <p>4. This prompt designates you are in the "HBnB" console. There are variety of commands available within the console program.</p>
+<p>I Wealth Adetunji also contributed to this project</p>
